@@ -1,0 +1,95 @@
+@charset "UTF-8";
+
+div#geral{
+    background-color:white;
+    margin-left: 255px;
+    margin-right: 690px;
+    border: 1px solid gray;
+    height: 1010px;
+}
+
+div#tipo{
+    margin-left: -260px;
+}
+
+h1{
+    font-family: arial;
+    font-size:35px;
+margin-top:3.5mm;
+color:white;
+}
+
+
+h2{
+    color:rgba(3, 154, 3, 0.471);
+    font-family: arial;
+    font-size:39px;
+    font-weight: normal;
+    margin-top:-49px;
+    text-align: center;
+}
+h3{
+    font-family: arial;
+    font-weight: normal;
+    color: rgb(67, 67, 67);
+    margin-top:-30px;
+    float: right;
+    margin-right: 20px;
+}
+
+h5{
+    font-family: arial;
+    font-weight: normal;
+    color: rgb(67, 67, 67);
+   
+}
+
+
+div#som{
+    float:right;
+    margin-right: -183px;
+    background-color: transparent;
+}
+
+div#pod{
+float: right;
+background-color: grey;
+color:white;
+padding: 12px;
+margin-top: 15px;
+margin-right: 60px;
+font-family: arial;
+transform: rotate(-19deg);
+}
+
+div#micro{
+    margin-top: -42px;
+}
+
+div.logo{
+    display: flex;
+   
+}
+
+div.mini-logo{
+    margin:10px;
+    background:linear-gradient(to bottom,rgba(27, 156, 27, 0.617),rgba(17, 110, 17, 0.617));
+   border-radius: 12px;
+    height:53px;
+    width:79px;
+    text-align: center;
+}
+
+#n5{
+    float:right;
+    margin-top: -20px;
+}
+
+div#h5{
+float:right;
+margin-top: -62px;
+}
+div#im5{
+    margin-left: 291px;
+    margin-top: -13px;
+}
